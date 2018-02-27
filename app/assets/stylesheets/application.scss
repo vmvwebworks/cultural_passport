@@ -1,6 +1,6 @@
 /* colores */
 @import "materialize/components/color";
-$primary-color: #b33939 !default;
+$primary-color: #c44569 !default;
 $secondary-color: #cd6133 !default;
 @import "materialize";
 @import "material_icons";
@@ -10,7 +10,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  background-color: #f7f1e3;
+  background-color: #303952;
 }
 
 main {
